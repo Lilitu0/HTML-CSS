@@ -1,0 +1,8 @@
+.button{
+    background-color: black;
+    transition: background-color .3s ease-in;
+    border: none;
+}
+.button:hover{
+    background-color: rgb(108, 108, 241);
+}
